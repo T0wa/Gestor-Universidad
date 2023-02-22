@@ -1,0 +1,190 @@
+C:\Users\JUANICO\Desktop\NICO\UTN\Practica profesional\SistemaAbel\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\JUANICO\Desktop\NICO\UTN\Practica profesional\SistemaAbel\Entidades\bin\Debug\Entidades.dll
+C:\Users\JUANICO\Desktop\NICO\UTN\Practica profesional\SistemaAbel\Entidades\bin\Debug\Entidades.pdb
+C:\Users\JUANICO\Desktop\NICO\UTN\Practica profesional\SistemaAbel\Entidades\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\JUANICO\Desktop\NICO\UTN\Practica profesional\SistemaAbel\Entidades\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\JUANICO\Desktop\NICO\UTN\Practica profesional\SistemaAbel\Entidades\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\JUANICO\Desktop\NICO\UTN\Practica profesional\SistemaAbel\Entidades\bin\Debug\Npgsql.dll
+C:\Users\JUANICO\Desktop\NICO\UTN\Practica profesional\SistemaAbel\Entidades\bin\Debug\System.Buffers.dll
+C:\Users\JUANICO\Desktop\NICO\UTN\Practica profesional\SistemaAbel\Entidades\bin\Debug\System.Collections.Immutable.dll
+C:\Users\JUANICO\Desktop\NICO\UTN\Practica profesional\SistemaAbel\Entidades\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\JUANICO\Desktop\NICO\UTN\Practica profesional\SistemaAbel\Entidades\bin\Debug\System.Memory.dll
+C:\Users\JUANICO\Desktop\NICO\UTN\Practica profesional\SistemaAbel\Entidades\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\JUANICO\Desktop\NICO\UTN\Practica profesional\SistemaAbel\Entidades\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\JUANICO\Desktop\NICO\UTN\Practica profesional\SistemaAbel\Entidades\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\JUANICO\Desktop\NICO\UTN\Practica profesional\SistemaAbel\Entidades\bin\Debug\System.Text.Json.dll
+C:\Users\JUANICO\Desktop\NICO\UTN\Practica profesional\SistemaAbel\Entidades\bin\Debug\System.Threading.Channels.dll
+C:\Users\JUANICO\Desktop\NICO\UTN\Practica profesional\SistemaAbel\Entidades\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\JUANICO\Desktop\NICO\UTN\Practica profesional\SistemaAbel\Entidades\bin\Debug\System.ValueTuple.dll
+C:\Users\JUANICO\Desktop\NICO\UTN\Practica profesional\SistemaAbel\Entidades\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\JUANICO\Desktop\NICO\UTN\Practica profesional\SistemaAbel\Entidades\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\JUANICO\Desktop\NICO\UTN\Practica profesional\SistemaAbel\Entidades\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\JUANICO\Desktop\NICO\UTN\Practica profesional\SistemaAbel\Entidades\bin\Debug\Npgsql.xml
+C:\Users\JUANICO\Desktop\NICO\UTN\Practica profesional\SistemaAbel\Entidades\bin\Debug\System.Buffers.xml
+C:\Users\JUANICO\Desktop\NICO\UTN\Practica profesional\SistemaAbel\Entidades\bin\Debug\System.Collections.Immutable.xml
+C:\Users\JUANICO\Desktop\NICO\UTN\Practica profesional\SistemaAbel\Entidades\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\JUANICO\Desktop\NICO\UTN\Practica profesional\SistemaAbel\Entidades\bin\Debug\System.Memory.xml
+C:\Users\JUANICO\Desktop\NICO\UTN\Practica profesional\SistemaAbel\Entidades\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\JUANICO\Desktop\NICO\UTN\Practica profesional\SistemaAbel\Entidades\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\JUANICO\Desktop\NICO\UTN\Practica profesional\SistemaAbel\Entidades\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\JUANICO\Desktop\NICO\UTN\Practica profesional\SistemaAbel\Entidades\bin\Debug\System.Text.Json.xml
+C:\Users\JUANICO\Desktop\NICO\UTN\Practica profesional\SistemaAbel\Entidades\bin\Debug\System.Threading.Channels.xml
+C:\Users\JUANICO\Desktop\NICO\UTN\Practica profesional\SistemaAbel\Entidades\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\JUANICO\Desktop\NICO\UTN\Practica profesional\SistemaAbel\Entidades\bin\Debug\System.ValueTuple.xml
+C:\Users\JUANICO\Desktop\NICO\UTN\Practica profesional\SistemaAbel\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\JUANICO\Desktop\NICO\UTN\Practica profesional\SistemaAbel\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\JUANICO\Desktop\NICO\UTN\Practica profesional\SistemaAbel\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\JUANICO\Desktop\NICO\UTN\Practica profesional\SistemaAbel\Entidades\obj\Debug\Entidades.dll
+C:\Users\JUANICO\Desktop\NICO\UTN\Practica profesional\SistemaAbel\Entidades\obj\Debug\Entidades.pdb
+C:\Users\hp\Desktop\SistemaAbel_lkz_19_11\SistemaAbel\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\hp\Desktop\SistemaAbel_lkz_19_11\SistemaAbel\Entidades\bin\Debug\Entidades.dll
+C:\Users\hp\Desktop\SistemaAbel_lkz_19_11\SistemaAbel\Entidades\bin\Debug\Entidades.pdb
+C:\Users\hp\Desktop\SistemaAbel_lkz_19_11\SistemaAbel\Entidades\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hp\Desktop\SistemaAbel_lkz_19_11\SistemaAbel\Entidades\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\hp\Desktop\SistemaAbel_lkz_19_11\SistemaAbel\Entidades\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hp\Desktop\SistemaAbel_lkz_19_11\SistemaAbel\Entidades\bin\Debug\Npgsql.dll
+C:\Users\hp\Desktop\SistemaAbel_lkz_19_11\SistemaAbel\Entidades\bin\Debug\System.Buffers.dll
+C:\Users\hp\Desktop\SistemaAbel_lkz_19_11\SistemaAbel\Entidades\bin\Debug\System.Collections.Immutable.dll
+C:\Users\hp\Desktop\SistemaAbel_lkz_19_11\SistemaAbel\Entidades\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hp\Desktop\SistemaAbel_lkz_19_11\SistemaAbel\Entidades\bin\Debug\System.Memory.dll
+C:\Users\hp\Desktop\SistemaAbel_lkz_19_11\SistemaAbel\Entidades\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\hp\Desktop\SistemaAbel_lkz_19_11\SistemaAbel\Entidades\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hp\Desktop\SistemaAbel_lkz_19_11\SistemaAbel\Entidades\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\hp\Desktop\SistemaAbel_lkz_19_11\SistemaAbel\Entidades\bin\Debug\System.Text.Json.dll
+C:\Users\hp\Desktop\SistemaAbel_lkz_19_11\SistemaAbel\Entidades\bin\Debug\System.Threading.Channels.dll
+C:\Users\hp\Desktop\SistemaAbel_lkz_19_11\SistemaAbel\Entidades\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\hp\Desktop\SistemaAbel_lkz_19_11\SistemaAbel\Entidades\bin\Debug\System.ValueTuple.dll
+C:\Users\hp\Desktop\SistemaAbel_lkz_19_11\SistemaAbel\Entidades\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\hp\Desktop\SistemaAbel_lkz_19_11\SistemaAbel\Entidades\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\hp\Desktop\SistemaAbel_lkz_19_11\SistemaAbel\Entidades\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\hp\Desktop\SistemaAbel_lkz_19_11\SistemaAbel\Entidades\bin\Debug\Npgsql.xml
+C:\Users\hp\Desktop\SistemaAbel_lkz_19_11\SistemaAbel\Entidades\bin\Debug\System.Buffers.xml
+C:\Users\hp\Desktop\SistemaAbel_lkz_19_11\SistemaAbel\Entidades\bin\Debug\System.Collections.Immutable.xml
+C:\Users\hp\Desktop\SistemaAbel_lkz_19_11\SistemaAbel\Entidades\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\hp\Desktop\SistemaAbel_lkz_19_11\SistemaAbel\Entidades\bin\Debug\System.Memory.xml
+C:\Users\hp\Desktop\SistemaAbel_lkz_19_11\SistemaAbel\Entidades\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\hp\Desktop\SistemaAbel_lkz_19_11\SistemaAbel\Entidades\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hp\Desktop\SistemaAbel_lkz_19_11\SistemaAbel\Entidades\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\hp\Desktop\SistemaAbel_lkz_19_11\SistemaAbel\Entidades\bin\Debug\System.Text.Json.xml
+C:\Users\hp\Desktop\SistemaAbel_lkz_19_11\SistemaAbel\Entidades\bin\Debug\System.Threading.Channels.xml
+C:\Users\hp\Desktop\SistemaAbel_lkz_19_11\SistemaAbel\Entidades\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\hp\Desktop\SistemaAbel_lkz_19_11\SistemaAbel\Entidades\bin\Debug\System.ValueTuple.xml
+C:\Users\hp\Desktop\SistemaAbel_lkz_19_11\SistemaAbel\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\SistemaAbel_lkz_19_11\SistemaAbel\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\SistemaAbel_lkz_19_11\SistemaAbel\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\hp\Desktop\SistemaAbel_lkz_19_11\SistemaAbel\Entidades\obj\Debug\Entidades.dll
+C:\Users\hp\Desktop\SistemaAbel_lkz_19_11\SistemaAbel\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Lucas Fernandez\Downloads\SistemaAbel_Excel\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\Lucas Fernandez\Downloads\SistemaAbel_Excel\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\Entidades.dll
+C:\Users\Lucas Fernandez\Downloads\SistemaAbel_Excel\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Lucas Fernandez\Downloads\SistemaAbel_Excel\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lucas Fernandez\Downloads\SistemaAbel_Excel\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Lucas Fernandez\Downloads\SistemaAbel_Excel\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Lucas Fernandez\Downloads\SistemaAbel_Excel\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\Npgsql.dll
+C:\Users\Lucas Fernandez\Downloads\SistemaAbel_Excel\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\System.Buffers.dll
+C:\Users\Lucas Fernandez\Downloads\SistemaAbel_Excel\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Lucas Fernandez\Downloads\SistemaAbel_Excel\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lucas Fernandez\Downloads\SistemaAbel_Excel\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\System.Memory.dll
+C:\Users\Lucas Fernandez\Downloads\SistemaAbel_Excel\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lucas Fernandez\Downloads\SistemaAbel_Excel\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lucas Fernandez\Downloads\SistemaAbel_Excel\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Lucas Fernandez\Downloads\SistemaAbel_Excel\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\System.Text.Json.dll
+C:\Users\Lucas Fernandez\Downloads\SistemaAbel_Excel\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\System.Threading.Channels.dll
+C:\Users\Lucas Fernandez\Downloads\SistemaAbel_Excel\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lucas Fernandez\Downloads\SistemaAbel_Excel\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\System.ValueTuple.dll
+C:\Users\Lucas Fernandez\Downloads\SistemaAbel_Excel\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Lucas Fernandez\Downloads\SistemaAbel_Excel\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Lucas Fernandez\Downloads\SistemaAbel_Excel\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Lucas Fernandez\Downloads\SistemaAbel_Excel\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\Npgsql.xml
+C:\Users\Lucas Fernandez\Downloads\SistemaAbel_Excel\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\System.Buffers.xml
+C:\Users\Lucas Fernandez\Downloads\SistemaAbel_Excel\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Lucas Fernandez\Downloads\SistemaAbel_Excel\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Lucas Fernandez\Downloads\SistemaAbel_Excel\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\System.Memory.xml
+C:\Users\Lucas Fernandez\Downloads\SistemaAbel_Excel\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Lucas Fernandez\Downloads\SistemaAbel_Excel\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lucas Fernandez\Downloads\SistemaAbel_Excel\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Lucas Fernandez\Downloads\SistemaAbel_Excel\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\System.Text.Json.xml
+C:\Users\Lucas Fernandez\Downloads\SistemaAbel_Excel\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\System.Threading.Channels.xml
+C:\Users\Lucas Fernandez\Downloads\SistemaAbel_Excel\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Lucas Fernandez\Downloads\SistemaAbel_Excel\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\System.ValueTuple.xml
+C:\Users\Lucas Fernandez\Downloads\SistemaAbel_Excel\SistemaAbel_Excel\SistemaAbel\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Lucas Fernandez\Downloads\SistemaAbel_Excel\SistemaAbel_Excel\SistemaAbel\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Fernandez\Downloads\SistemaAbel_Excel\SistemaAbel_Excel\SistemaAbel\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\Lucas Fernandez\Downloads\SistemaAbel_Excel\SistemaAbel_Excel\SistemaAbel\Entidades\obj\Debug\Entidades.dll
+C:\Users\Lucas Fernandez\Downloads\SistemaAbel_Excel\SistemaAbel_Excel\SistemaAbel\Entidades\obj\Debug\Entidades.pdb
+C:\Users\juanc\OneDrive\Escritorio\Abel 24-11\SistemaAbel_24_11\SistemaAbel_Excel\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\juanc\OneDrive\Escritorio\Abel 24-11\SistemaAbel_24_11\SistemaAbel_Excel\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\Entidades.dll
+C:\Users\juanc\OneDrive\Escritorio\Abel 24-11\SistemaAbel_24_11\SistemaAbel_Excel\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\Entidades.pdb
+C:\Users\juanc\OneDrive\Escritorio\Abel 24-11\SistemaAbel_24_11\SistemaAbel_Excel\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\juanc\OneDrive\Escritorio\Abel 24-11\SistemaAbel_24_11\SistemaAbel_Excel\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\juanc\OneDrive\Escritorio\Abel 24-11\SistemaAbel_24_11\SistemaAbel_Excel\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\juanc\OneDrive\Escritorio\Abel 24-11\SistemaAbel_24_11\SistemaAbel_Excel\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\Npgsql.dll
+C:\Users\juanc\OneDrive\Escritorio\Abel 24-11\SistemaAbel_24_11\SistemaAbel_Excel\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\System.Buffers.dll
+C:\Users\juanc\OneDrive\Escritorio\Abel 24-11\SistemaAbel_24_11\SistemaAbel_Excel\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\System.Collections.Immutable.dll
+C:\Users\juanc\OneDrive\Escritorio\Abel 24-11\SistemaAbel_24_11\SistemaAbel_Excel\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\juanc\OneDrive\Escritorio\Abel 24-11\SistemaAbel_24_11\SistemaAbel_Excel\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\System.Memory.dll
+C:\Users\juanc\OneDrive\Escritorio\Abel 24-11\SistemaAbel_24_11\SistemaAbel_Excel\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\juanc\OneDrive\Escritorio\Abel 24-11\SistemaAbel_24_11\SistemaAbel_Excel\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\juanc\OneDrive\Escritorio\Abel 24-11\SistemaAbel_24_11\SistemaAbel_Excel\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\juanc\OneDrive\Escritorio\Abel 24-11\SistemaAbel_24_11\SistemaAbel_Excel\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\System.Text.Json.dll
+C:\Users\juanc\OneDrive\Escritorio\Abel 24-11\SistemaAbel_24_11\SistemaAbel_Excel\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\System.Threading.Channels.dll
+C:\Users\juanc\OneDrive\Escritorio\Abel 24-11\SistemaAbel_24_11\SistemaAbel_Excel\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\juanc\OneDrive\Escritorio\Abel 24-11\SistemaAbel_24_11\SistemaAbel_Excel\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\System.ValueTuple.dll
+C:\Users\juanc\OneDrive\Escritorio\Abel 24-11\SistemaAbel_24_11\SistemaAbel_Excel\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\juanc\OneDrive\Escritorio\Abel 24-11\SistemaAbel_24_11\SistemaAbel_Excel\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\juanc\OneDrive\Escritorio\Abel 24-11\SistemaAbel_24_11\SistemaAbel_Excel\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\juanc\OneDrive\Escritorio\Abel 24-11\SistemaAbel_24_11\SistemaAbel_Excel\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\Npgsql.xml
+C:\Users\juanc\OneDrive\Escritorio\Abel 24-11\SistemaAbel_24_11\SistemaAbel_Excel\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\System.Buffers.xml
+C:\Users\juanc\OneDrive\Escritorio\Abel 24-11\SistemaAbel_24_11\SistemaAbel_Excel\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\System.Collections.Immutable.xml
+C:\Users\juanc\OneDrive\Escritorio\Abel 24-11\SistemaAbel_24_11\SistemaAbel_Excel\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\juanc\OneDrive\Escritorio\Abel 24-11\SistemaAbel_24_11\SistemaAbel_Excel\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\System.Memory.xml
+C:\Users\juanc\OneDrive\Escritorio\Abel 24-11\SistemaAbel_24_11\SistemaAbel_Excel\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\juanc\OneDrive\Escritorio\Abel 24-11\SistemaAbel_24_11\SistemaAbel_Excel\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\juanc\OneDrive\Escritorio\Abel 24-11\SistemaAbel_24_11\SistemaAbel_Excel\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\juanc\OneDrive\Escritorio\Abel 24-11\SistemaAbel_24_11\SistemaAbel_Excel\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\System.Text.Json.xml
+C:\Users\juanc\OneDrive\Escritorio\Abel 24-11\SistemaAbel_24_11\SistemaAbel_Excel\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\System.Threading.Channels.xml
+C:\Users\juanc\OneDrive\Escritorio\Abel 24-11\SistemaAbel_24_11\SistemaAbel_Excel\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\juanc\OneDrive\Escritorio\Abel 24-11\SistemaAbel_24_11\SistemaAbel_Excel\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\System.ValueTuple.xml
+C:\Users\juanc\OneDrive\Escritorio\Abel 24-11\SistemaAbel_24_11\SistemaAbel_Excel\SistemaAbel_Excel\SistemaAbel\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\juanc\OneDrive\Escritorio\Abel 24-11\SistemaAbel_24_11\SistemaAbel_Excel\SistemaAbel_Excel\SistemaAbel\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\juanc\OneDrive\Escritorio\Abel 24-11\SistemaAbel_24_11\SistemaAbel_Excel\SistemaAbel_Excel\SistemaAbel\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\juanc\OneDrive\Escritorio\Abel 24-11\SistemaAbel_24_11\SistemaAbel_Excel\SistemaAbel_Excel\SistemaAbel\Entidades\obj\Debug\Entidades.dll
+C:\Users\juanc\OneDrive\Escritorio\Abel 24-11\SistemaAbel_24_11\SistemaAbel_Excel\SistemaAbel_Excel\SistemaAbel\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Lucas Fernandez\Desktop\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\Lucas Fernandez\Desktop\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\Entidades.dll
+C:\Users\Lucas Fernandez\Desktop\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Lucas Fernandez\Desktop\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lucas Fernandez\Desktop\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Lucas Fernandez\Desktop\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Lucas Fernandez\Desktop\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\Npgsql.dll
+C:\Users\Lucas Fernandez\Desktop\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\System.Buffers.dll
+C:\Users\Lucas Fernandez\Desktop\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Lucas Fernandez\Desktop\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lucas Fernandez\Desktop\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\System.Memory.dll
+C:\Users\Lucas Fernandez\Desktop\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lucas Fernandez\Desktop\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lucas Fernandez\Desktop\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Lucas Fernandez\Desktop\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\System.Text.Json.dll
+C:\Users\Lucas Fernandez\Desktop\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\System.Threading.Channels.dll
+C:\Users\Lucas Fernandez\Desktop\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lucas Fernandez\Desktop\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\System.ValueTuple.dll
+C:\Users\Lucas Fernandez\Desktop\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Lucas Fernandez\Desktop\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Lucas Fernandez\Desktop\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Lucas Fernandez\Desktop\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\Npgsql.xml
+C:\Users\Lucas Fernandez\Desktop\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\System.Buffers.xml
+C:\Users\Lucas Fernandez\Desktop\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Lucas Fernandez\Desktop\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Lucas Fernandez\Desktop\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\System.Memory.xml
+C:\Users\Lucas Fernandez\Desktop\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Lucas Fernandez\Desktop\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lucas Fernandez\Desktop\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Lucas Fernandez\Desktop\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\System.Text.Json.xml
+C:\Users\Lucas Fernandez\Desktop\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\System.Threading.Channels.xml
+C:\Users\Lucas Fernandez\Desktop\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Lucas Fernandez\Desktop\SistemaAbel_Excel\SistemaAbel\Entidades\bin\Debug\System.ValueTuple.xml
+C:\Users\Lucas Fernandez\Desktop\SistemaAbel_Excel\SistemaAbel\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Lucas Fernandez\Desktop\SistemaAbel_Excel\SistemaAbel\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Fernandez\Desktop\SistemaAbel_Excel\SistemaAbel\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\Lucas Fernandez\Desktop\SistemaAbel_Excel\SistemaAbel\Entidades\obj\Debug\Entidades.dll
+C:\Users\Lucas Fernandez\Desktop\SistemaAbel_Excel\SistemaAbel\Entidades\obj\Debug\Entidades.pdb
