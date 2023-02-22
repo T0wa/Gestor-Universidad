@@ -1,0 +1,220 @@
+CREATE DATABASE practica_supervisada;
+CREATE TABLE Alumnos (
+
+Legajo_Alumnos VARCHAR(15),
+Nombre_Alumnos VARCHAR(250) NOT NULL,
+Apellido_Alumnos VARCHAR(250) NOT NULL,
+Mail_Alumnos VARCHAR(250) NOT NULL,
+Estado BOOLEAN NOT NULL,
+
+CONSTRAINT PK_ALUMNOS PRIMARY KEY (Legajo_Alumnos),
+CONSTRAINT UNIQUE_MAIL_ALUMNO UNIQUE (Mail_Alumnos)
+);
+
+
+CREATE TABLE IF NOT EXISTS Cuatrimestres (
+
+ID_Cuatrimestres INT GENERATED ALWAYS AS IDENTITY,
+Descripcion_Cuatrimestres VARCHAR(250) NOT NULL,
+Año_Cuatrimestres INT NOT NULL,
+Cuatrimestre_Cuatrimestres INT NOT NULL,
+Estado BOOLEAN NOT NULL,
+
+CONSTRAINT PK_CUATRIMESTRES PRIMARY KEY (ID_Cuatrimestres)
+);
+
+
+CREATE TABLE IF NOT EXISTS Inscriptos (
+
+IDCuatrimestre_Inscriptos INT,
+LegajoAlumno_Inscriptos VARCHAR(15),
+Condicion_Inscriptos VARCHAR(20),
+Encuesta_Inscriptos VARCHAR(20),
+Grupo_Inscriptos SMALLINT,
+Discord_Inscriptos VARCHAR(2),
+Documentacion_Inscriptos VARCHAR(2),
+Proyecto_Inscriptos VARCHAR(2),
+Observaciones_Inscriptos VARCHAR(400),
+Estado_Inscriptos VARCHAR(20),
+
+CONSTRAINT PK_INSCRIPTOS PRIMARY KEY (IDCuatrimestre_Inscriptos,LegajoAlumno_Inscriptos),
+CONSTRAINT FK_ALUMNOS_INSCRIPTOS FOREIGN KEY(LegajoAlumno_Inscriptos) REFERENCES Alumnos(Legajo_Alumnos),
+CONSTRAINT FK_ID_CUATRIMESTRES_INSCRIPTOS FOREIGN KEY(IDCuatrimestre_Inscriptos) REFERENCES Cuatrimestres(ID_Cuatrimestres)
+);
+
+
+CREATE TABLE IF NOT EXISTS Usuarios (
+
+User_Usuarios VARCHAR(25) NOT NULL,
+Apellido_Usuarios VARCHAR(250) NOT NULL,
+Nombre_Usuarios VARCHAR(250) NOT NULL,
+Mail_Usuarios VARCHAR(250) NOT NULL,
+Password_Usuarios VARCHAR(250) NOT NULL,
+Estado BOOLEAN NOT NULL,
+CONSTRAINT PK_USUARIOS PRIMARY KEY (User_Usuarios),
+CONSTRAINT UNIQUE_MAIL_USUARIOS UNIQUE (Mail_Usuarios)
+);
+--PROCEDIMIENTOS
+
+
+-- No es recomendable usar mayusculas en los nombres de los procedimientos 
+-- Las columnas con ñ pueden dar error tener cuidado con eso
+
+
+CREATE PROCEDURE sp_agregar_alumno(legajo character varying, nombre character varying, apellido character varying, mail character varying)
+    LANGUAGE sql
+    AS $$insert into alumnos
+	VALUES (legajo,nombre,apellido,mail,'true');$$;
+	
+
+CREATE PROCEDURE "sp_eliminar_alumno"(legajo character varying)
+    LANGUAGE sql
+    AS $$UPDATE alumnos
+	SET estado = 'false'
+	WHERE legajo_alumnos=legajo;$$;  
+
+
+
+CREATE PROCEDURE sp_actualizar_alumno(nombre character varying, apellido character varying, mail character varying, legajo character varying)
+    LANGUAGE sql
+    AS $$UPDATE alumnos
+	SET nombre_alumnos=nombre, apellido_alumnos=apellido, mail_alumnos=mail
+	WHERE legajo_alumnos=legajo;$$;
+
+
+
+CREATE PROCEDURE "sp_listar_cuatrimestres"()
+    LANGUAGE sql
+    AS $$select id_cuatrimestres,descripcion_cuatrimestres,"año_cuatrimestres",cuatrimestre_cuatrimestres from cuatrimestres WHERE Estado='true'$$;
+
+
+
+CREATE PROCEDURE "sp_listar_inscriptos"()
+    LANGUAGE sql
+    AS $$Select idcuatrimestre_inscriptos,legajoalumno_inscriptos,condicion_inscriptos,encuesta_inscriptos,grupo_inscriptos,discord_inscriptos,documentacion_inscriptos,proyecto_inscriptos,observaciones_inscriptos,estado_inscriptos from inscriptos$$;
+
+
+
+CREATE PROCEDURE public."sp_listar_usuarios"()
+    LANGUAGE sql
+    AS $$select user_usuarios,apellido_usuarios,nombre_usuarios,mail_usuarios,estado from usuarios WHERE Estado='true'$$;
+
+
+CREATE PROCEDURE public."sp_listar_alumnos"()
+    LANGUAGE sql
+    AS $$Select legajo_alumnos, nombre_alumnos,apellido_alumnos,mail_alumnos from alumnos WHERE Estado='true'$$;
+
+CREATE PROCEDURE sp_eliminar_cuatrimestre(id integer)
+    LANGUAGE sql
+    AS $$UPDATE Cuatrimestres
+	SET estado = 'false'
+	WHERE id_cuatrimestres=id;$$;
+
+
+
+
+CREATE PROCEDURE sp_eliminar_usuario(id_user character varying)
+    LANGUAGE sql
+    AS $$update usuarios
+	set estado='false'
+	WHERE User_Usuarios=id_user;$$;
+
+
+
+CREATE PROCEDURE sp_insertar_cuatrimestre(cuatrimestre character varying, "año" integer, numerocua integer)
+    LANGUAGE sql
+    AS $$insert into cuatrimestres(
+	descripcion_cuatrimestres,"año_cuatrimestres",cuatrimestre_cuatrimestres,Estado) 
+	VALUES ( cuatrimestre , año, numerocua,'true');$$;
+
+
+
+
+CREATE PROCEDURE sp_insertar_inscriptos(idcuatrimestre integer, legajo character varying, condicion character varying, encuesta character varying, grupo integer, discord character varying, documentacion character varying, proyecto character varying, observaciones character varying, estado character varying)
+    LANGUAGE sql
+    AS $$INSERT INTO inscriptos(
+	idcuatrimestre_inscriptos, legajoalumno_inscriptos, condicion_inscriptos, encuesta_inscriptos, grupo_inscriptos, discord_inscriptos, documentacion_inscriptos, proyecto_inscriptos, observaciones_inscriptos, estado_inscriptos)
+	VALUES (idcuatrimestre,legajo,condicion,encuesta,grupo,discord,documentacion,proyecto,observaciones,estado);$$;
+
+
+CREATE PROCEDURE sp_insertar_inscriptos2(idcuatrimestre integer, legajo character varying)
+    LANGUAGE sql
+    AS $$INSERT INTO inscriptos(
+	idcuatrimestre_inscriptos, legajoalumno_inscriptos)
+	VALUES (idcuatrimestre,legajo);$$;
+	
+	
+	CREATE PROCEDURE sp_insertar_inscriptos3(idcuatrimestre integer, legajo character varying, estado character varying)
+    LANGUAGE sql
+    AS $$INSERT INTO inscriptos(
+	idcuatrimestre_inscriptos, legajoalumno_inscriptos,estado_inscriptos)
+	VALUES (idcuatrimestre,legajo,estado);$$;
+
+
+
+CREATE PROCEDURE update_cuatrimestres(descripcion character varying, "año" integer, numero integer, id integer)
+    LANGUAGE sql
+    AS $$UPDATE cuatrimestres
+	SET  descripcion_cuatrimestres=descripcion, "año_cuatrimestres"=año, cuatrimestre_cuatrimestres=numero
+	WHERE id_cuatrimestres=id;$$;
+
+
+
+
+CREATE PROCEDURE sp_eliminar_inscripto(legajo character varying,est character varying)
+    LANGUAGE sql
+    AS $$UPDATE inscriptos
+	SET  estado_inscriptos=est
+	WHERE legajoalumno_inscriptos=legajo;$$;
+
+
+
+CREATE PROCEDURE sp_eliminar_inscripto2(legajo character varying,estado character varying)
+    LANGUAGE sql
+    AS $$UPDATE inscriptos
+	SET  estado_inscriptos=estado
+	WHERE legajoalumno_inscriptos=legajo;$$;
+
+
+
+CREATE PROCEDURE sp_actualizar_usuarios(usuario character varying, nombre character varying, apellido character varying, mail character varying, pass character varying)
+    LANGUAGE sql
+    AS $$UPDATE usuarios
+	SET apellido_usuarios=apellido, nombre_usuarios=nombre, mail_usuarios=mail, password_usuarios=pass
+	WHERE user_usuarios=usuario;$$;
+
+	
+	
+CREATE PROCEDURE sp_agregar_usuario(user_usuarios character varying, nombre_usuarios character varying, apellido_usuarios character varying, mail_usuarios character varying, password_usuarios character varying)
+    LANGUAGE sql
+    AS $$insert into usuarios (user_usuarios,nombre_usuarios,apellido_usuarios,mail_usuarios,password_usuarios,estado)
+	VALUES (user_usuarios,nombre_usuarios,apellido_usuarios,mail_usuarios,password_usuarios,'true');$$;
+
+
+
+
+CREATE PROCEDURE sp_actualizar_inscripto
+	(legajo character varying, encuesta character varying, 
+	observaciones character varying, discord character varying, grupo integer, 
+	proyecto character varying, condicion character varying, 
+	documentacion character varying, estado character varying)
+    LANGUAGE sql
+    AS $$UPDATE inscriptos
+	SET encuesta_inscriptos = encuesta,
+		observaciones_inscriptos = observaciones,
+		discord_inscriptos = discord,
+ 		grupo_inscriptos = grupo,
+		proyecto_inscriptos = proyecto,
+		condicion_inscriptos = condicion,
+		documentacion_inscriptos = documentacion,
+		estado_inscriptos = estado
+	Where legajoalumno_inscriptos = legajo;$$;
+
+
+
+
+
+
+insert into usuarios (user_usuarios,apellido_usuarios,nombre_usuarios,mail_usuarios,password_usuarios,estado) 
+values ('admin','admin','admin','admin@admin.com','admin',true)
+
